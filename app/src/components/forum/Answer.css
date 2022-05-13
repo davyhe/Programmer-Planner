@@ -1,0 +1,13 @@
+.answer-edit-icons svg{
+    margin-right: 6px;
+    cursor: pointer;
+}
+
+.answer-edit-icons .fa-pen{
+    margin-right: 12px;
+}
+
+.owner-name {
+    color: darkgreen;
+    font-weight: 600;
+}

@@ -1,0 +1,8 @@
+.section {
+    border-style: solid;
+    border-top: 0ch;
+    border-left: 0ch;
+    border-right: 0ch;
+    border-color: rgb(90, 89, 89);
+    padding-bottom: 30px;
+}

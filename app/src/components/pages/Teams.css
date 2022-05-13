@@ -1,0 +1,93 @@
+  h1 {
+    text-align: center;
+  }
+  #todo-list {
+    width: 500px;
+    margin: 60px auto;
+  }
+  
+  form {
+    /* display: flex;
+    justify-content: space-between; */
+    margin-bottom: 30px;
+  }
+  form input {
+    padding: 4px 8px;
+    flex-grow: 1;
+    margin-right: 16px;
+  }
+  .todo {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  button {
+    font-size: 16px;
+    background-color: rgb(217, 60, 35);
+    color: #fff;
+    border-radius: 8px;
+    border: none;
+    padding: 8px 16px;
+    cursor: pointer;
+  }
+  button:hover {
+    background-color: rgb(173, 47, 28);
+  }
+  button:active {
+    background-color: rgb(130,35,21);
+  }
+  button:focus {
+    outline: 0;
+  }
+  input[type='text'] { font-size: 20px; font-family: monospace; }
+  .todo input[type="checkbox"] {
+    transform: scale(1.8) translateY(1px);
+    margin: 0 16px 0 0;
+    cursor: pointer;
+  }
+  .todo-text input {
+    padding: 4px;
+  }
+  .todo-text {
+    font-size: 24px;
+    line-height: 24px;
+    margin-bottom: 16px;
+    display: flex;
+    align-items: center;
+  }
+  .todo-completed {
+    display: flex;
+    margin: 10px 0;
+  }
+  .todo-actions {
+    display: flex;
+    justify-content: right;
+  }
+
+
+
+/*  */
+* {
+  box-sizing: border-box;
+}
+
+.left-half {
+  position: absolute;
+  left: 12px;
+  width: 28%;
+}
+
+.left-title{
+  width: 40%;
+}
+
+.left-text{
+  font-size: 22px;
+  
+}
+
+.right-half {
+  position: absolute;
+  right: 0px;
+  width: 50%;
+}
