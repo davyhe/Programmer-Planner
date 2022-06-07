@@ -29,7 +29,7 @@ Open a new terminal
 - npm start
 
 
-##
+#
 ![login](/images/login.PNG)
 ###
 ![homepage](/images/homepage.PNG)
