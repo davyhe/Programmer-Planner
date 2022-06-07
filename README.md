@@ -11,14 +11,22 @@ Contributer:
 ##
 Demo Video: https://youtu.be/-9A3GPTcH1s
 ##
+Installation:
+- cd api
+- npm install
+
+Open a new terminal
+- cd app
+- npm install
+
 To run the program:
 
-**Open a new terminal**
-![api](/images/api.PNG)
+- cd api
+- npm start
 
-**Open a another terminal**
-![new-app](/images/new-app.PNG)
-![app](/images/app.PNG)
+Open a new terminal
+- cd app
+- npm start
 
 ##
 ![login](/images/login.PNG)
