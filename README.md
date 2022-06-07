@@ -9,9 +9,9 @@ Contributer:
 - Beau Lin: linbeau22@tamu.edu
 
 ##
-![Administration](/images/Administration.PNG)
+![login](/images/login.PNG)
 ###
-![Developers](/images/Developers.PNG)
+![homepage](/images/homepage.PNG)
 ##
 ![ERD_Diagram](/images/ERD_Diagram.PNG)
 ##
