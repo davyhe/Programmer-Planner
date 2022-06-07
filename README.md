@@ -18,7 +18,7 @@ Demo Video: https://youtu.be/-9A3GPTcH1s
 Open a new terminal
 - cd app
 - npm install
-
+##
 **To run the program:**
 
 - cd api
@@ -27,6 +27,7 @@ Open a new terminal
 Open a new terminal
 - cd app
 - npm start
+
 
 ##
 ![login](/images/login.PNG)
