@@ -14,12 +14,11 @@ Demo Video: https://youtu.be/-9A3GPTcH1s
 To run the program:
 
 open a new terminal
-- cd api
-- npm run
+![api](/images/api.PNG)
 
 open a another terminal
-- cd app
-- npm run
+![app](/images/app.PNG)
+![new app](/images/new app.PNG)
 ##
 ![login](/images/login.PNG)
 ###
