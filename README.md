@@ -11,6 +11,14 @@ Contributer:
 ##
 Demo Video: https://youtu.be/-9A3GPTcH1s
 ##
+To run the program:
+open a new terminal
+- cd api
+- npm run
+open a another terminal
+- cd app
+- npm run
+##
 ![login](/images/login.PNG)
 ###
 ![homepage](/images/homepage.PNG)
