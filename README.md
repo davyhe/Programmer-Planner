@@ -12,11 +12,12 @@ Contributer:
 Demo Video: https://youtu.be/-9A3GPTcH1s
 ##
 To run the program:
+
 open a new terminal
 - cd api
 - npm run
 
-open a another terminal:
+open a another terminal
 - cd app
 - npm run
 ##
