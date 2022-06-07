@@ -13,12 +13,12 @@ Demo Video: https://youtu.be/-9A3GPTcH1s
 ##
 To run the program:
 
-open a new terminal
+**Open a new terminal**
 ![api](/images/api.PNG)
 
-open a another terminal
+**Open a another terminal**
 ![app](/images/app.PNG)
-![new app](/images/new app.PNG)
+![new-app](/images/new-app.PNG)
 ##
 ![login](/images/login.PNG)
 ###
