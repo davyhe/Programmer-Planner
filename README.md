@@ -11,7 +11,7 @@ Contributer:
 ##
 Demo Video: https://youtu.be/-9A3GPTcH1s
 ##
-Installation:
+**Installation:**
 - cd api
 - npm install
 
@@ -19,7 +19,7 @@ Open a new terminal
 - cd app
 - npm install
 
-To run the program:
+**To run the program:**
 
 - cd api
 - npm start
