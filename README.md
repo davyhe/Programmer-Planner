@@ -17,8 +17,9 @@ To run the program:
 ![api](/images/api.PNG)
 
 **Open a another terminal**
-![app](/images/app.PNG)
 ![new-app](/images/new-app.PNG)
+![app](/images/app.PNG)
+
 ##
 ![login](/images/login.PNG)
 ###
