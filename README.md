@@ -12,13 +12,13 @@ Contributer:
 ![login](/images/login.PNG)
 ###
 ![homepage](/images/homepage.PNG)
-##
+###
 ![task-page](/images/task-page.PNG)
-##
+###
 ![sprint-setting](/images/sprint-setting.PNG)
-##
+###
 ![question-page](/images/question-page.PNG)
-##
+###
 ![account-setting](/images/account-setting.PNG)
 ##
 ![ERD_Diagram](/images/ERD_Diagram.PNG)
